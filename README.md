@@ -27,5 +27,3 @@ After downloading the dataset, follow these steps:
 1. Create a folder named `Data` inside the project folder.
 2. Extract the downloaded data into the `Data` folder.
 
-Now your project is ready to use with the CelebA dataset.
-
