@@ -2,7 +2,9 @@
 This is a PyTorch implementation of Variational AutoEncoders
 This work is inspired from the academic paper: https://arxiv.org/abs/1312.6114 and https://openreview.net/forum?id=rJWXGDWd-H
 ## Installation
-To use the code in this repository, follow these steps:
+1. Clone the repository to your local machine:
+
+```bash
 git clone https://github.com/mParthSaharanf/PyTorch-VAE.git
 
 ## Available Implementations
