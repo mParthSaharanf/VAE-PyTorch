@@ -1,6 +1,6 @@
 # VAE-PyTorch
 This is a PyTorch implementation of Variational AutoEncoders
-This work is inspired from the academic paper: https://arxiv.org/abs/1312.6114 and https://openreview.net/forum?id=rJWXGDWd-H
+This work is inspired from the academic paper [here](https://arxiv.org/abs/1312.6114) and [here](https://openreview.net/forum?id=rJWXGDWd-H)
 ## Installation
 ```bash
 git clone https://github.com/mParthSaharanf/vae-pytorch.git
@@ -12,8 +12,7 @@ pip install -r requirements.txt
 cd vae-pytorch
 python run.py -c configs/<config-file-name.yaml>
 ```
-write config file name of the model in place of <config-file-name.yaml>
-
+Replace <config-file-name.yaml> with the name of the configuration file for the model you want to run.
 
 
 ## Available Implementations
