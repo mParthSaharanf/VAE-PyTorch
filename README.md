@@ -7,6 +7,12 @@ git clone https://github.com/mParthSaharanf/vae-pytorch.git
 cd vae-pytorch
 pip install -r requirements.txt
 ```
+## Use
+```bash
+cd vae-pytorch
+python run.py -c configs/<config-file-name.yaml>
+```
+write config file name of the model in place of <config-file-name.yaml>
 
 
 
