@@ -20,5 +20,13 @@ write config file name of the model in place of <config-file-name.yaml>
 ### 1. Vanilla VAE
 ### 2. Conditional VAE
 # Data
-Download data from http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
-Create a folder named Data inside the project folder and extract the data inside it
+
+To use this project, you'll need to download the CelebA dataset from [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
+
+After downloading the dataset, follow these steps:
+
+1. Create a folder named `Data` inside the project folder.
+2. Extract the downloaded data into the `Data` folder.
+
+Now your project is ready to use with the CelebA dataset.
+
