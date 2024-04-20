@@ -1,2 +1,2 @@
 # vae-pytorch
-yo
+This is a PyTorch implementation of Variational AutoEncoders
